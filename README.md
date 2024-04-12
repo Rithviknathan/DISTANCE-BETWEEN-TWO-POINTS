@@ -14,7 +14,8 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 
 
 ### OUTPUT:
-![Screenshot (51)](https://github.com/Rithviknathan/DISTANCE-BETWEEN-TWO-POINTS/assets/148410509/88a74a41-6ed8-431a-a23e-b52d7cba657a)
+![Screenshot (71)](https://github.com/Rithviknathan/DISTANCE-BETWEEN-TWO-POINTS/assets/148410509/2149381d-f5c7-469a-ba45-3596f2a5f835)
+
 
 
 ### RESULT:
